@@ -29,3 +29,10 @@ Kelebihan Google Drive
 
 Kekurangan
 - Bergantung pada internet (but this is cloud storage so this doesn't count)
+
+Platform lain selain dari Google Drive yang menjadi menjadi saingan adalah DropBox dan MegaUp. Berbeda dengan Cloud Storage lainnya Google Drive banyak terhubung dengan layanan lain seperti spreadsheet and thats what we call eficiency.
+
+Link Google Drive silahkan digunakan:
+https://drive.google.com/
+
+![](https://drive.google.com/file/d/1XhlpqFNkMU59gkczIY-tdA7kcs3Yu-76/view?usp=sharing)
