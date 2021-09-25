@@ -6,7 +6,7 @@ Juruasan Informatika Angkatan 18
 
 ## Google Dev Product Tech
 
-
+![](https://raw.githubusercontent.com/kandikaprima/Gdrive/main/Google_Drive_logo.png)
 
 ### Google Drive
 Google Drive merupakan sebuah media penyimpanan data online berbasis cloud yang untuk saat ini banyak digunakan oleh para pelajar dan mahasiswa. Google Drive pertama kali beredar pada tanggal 24 April 2012.
