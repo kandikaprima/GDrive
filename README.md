@@ -2,7 +2,7 @@ Kandika Prima Putra
 
 Universitas Mulawarman
 
-Juruasan Informatika Angkatan 18
+Juruasan Informatika Angkatan 19
 
 ## Google Dev Product Tech
 
