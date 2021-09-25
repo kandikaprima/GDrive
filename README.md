@@ -40,4 +40,4 @@ Link Contoh penggunaan:
 
 https://drive.google.com/drive/folders/1vea-gJsByfr1IbDR9WyOcESAN7dLu_0l?usp=sharing
 
-![](https://raw.githubusercontent.com/kandikaprima/Gdrive/main/strong-253x30011.)
+![](https://raw.githubusercontent.com/kandikaprima/Gdrive/main/Pengguna_GDrive.jpg)
